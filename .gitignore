@@ -10,3 +10,5 @@ output_full/
 
 # Local database files
 *.db
+# Backup source files
+src/*backup*.py
