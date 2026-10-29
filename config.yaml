@@ -1,0 +1,9 @@
+
+seed: 20261022
+plants: 1
+lines: 5
+machines: 30
+products: 20
+days: 90
+target_events: 100000
+target_counts: 500000

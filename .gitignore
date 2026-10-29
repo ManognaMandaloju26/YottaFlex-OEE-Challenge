@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Generated output folders
+output/
+output_*/
+output_full/
+
+# Local database files
+*.db
